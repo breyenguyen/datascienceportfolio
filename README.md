@@ -1,2 +1,2 @@
-# datascienceportfolio
-This is where I show my Data Science portfolio projects.
+# Data Science Portfolio
+This is where you can take a look at my Data Science portfolio projects.
